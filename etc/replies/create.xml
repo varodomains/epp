@@ -1,0 +1,14 @@
+<epp xmlns="urn:ietf:params:xml:ns:epp-1.0">
+   <response>
+      <result code="%code%">
+         <msg lang="en">%message%</msg>
+      </result>
+      <resData>
+         <domain:creData xmlns:domain="urn:ietf:params:xml:ns:domain-1.0">%creData%</domain:creData>
+      </resData> 
+      <trID>
+         <clTRID>%clTRID%</clTRID>
+         <svTRID>%svTRID%</svTRID>
+      </trID>
+   </response>
+</epp>

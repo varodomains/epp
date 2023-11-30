@@ -1,0 +1,13 @@
+<epp xmlns="urn:ietf:params:xml:ns:epp-1.0">
+   <greeting>
+      <svID>%siteName% %hostName%</svID>
+      <svDate>%date%</svDate>
+      <svcMenu>
+         <version>1.0</version>
+         <lang>en</lang>
+         <objURI>urn:ietf:params:xml:ns:domain-1.0</objURI>
+         <svcExtension></svcExtension>
+      </svcMenu>
+      <dcp></dcp>
+   </greeting>
+</epp>

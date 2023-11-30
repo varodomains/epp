@@ -1,0 +1,11 @@
+<epp xmlns="urn:ietf:params:xml:ns:epp-1.0">
+   <response>
+      <result code="%code%">
+         <msg lang="en">%message%</msg>
+      </result>
+      <trID>
+         <clTRID>%clTRID%</clTRID>
+         <svTRID>%svTRID%</svTRID>
+      </trID>
+   </response>
+</epp>
